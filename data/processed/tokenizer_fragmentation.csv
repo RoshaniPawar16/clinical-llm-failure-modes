@@ -1,0 +1,976 @@
+nct_id,intervention_type,term,tokenizer,token_count,fragmentation_score
+NCT03535168,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT03535168,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT03535168,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT00006450,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00006450,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00006450,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT02172274,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT02172274,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT02172274,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT02372097,DRUG,bioequivalence,bert-base-uncased,5,5.0
+NCT02372097,DRUG,bioequivalence,roberta-base,5,5.0
+NCT02372097,DRUG,bioequivalence,clinicalbert,4,4.0
+NCT05497297,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT05497297,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT05497297,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT05497297,DRUG,pharmacodynamics,bert-base-uncased,6,6.0
+NCT05497297,DRUG,pharmacodynamics,roberta-base,3,3.0
+NCT05497297,DRUG,pharmacodynamics,clinicalbert,6,6.0
+NCT05925920,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT05925920,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT05925920,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT05925920,DRUG,pharmacodynamics,bert-base-uncased,6,6.0
+NCT05925920,DRUG,pharmacodynamics,roberta-base,3,3.0
+NCT05925920,DRUG,pharmacodynamics,clinicalbert,6,6.0
+NCT05925920,DRUG,type 2 diabetes,bert-base-uncased,3,1.0
+NCT05925920,DRUG,type 2 diabetes,roberta-base,3,1.0
+NCT05925920,DRUG,type 2 diabetes,clinicalbert,3,1.0
+NCT01788020,DRUG,dexamethasone,bert-base-uncased,5,5.0
+NCT01788020,DRUG,dexamethasone,roberta-base,6,6.0
+NCT01788020,DRUG,dexamethasone,clinicalbert,5,5.0
+NCT01788020,DRUG,cyclophosphamide,bert-base-uncased,6,6.0
+NCT01788020,DRUG,cyclophosphamide,roberta-base,4,4.0
+NCT01788020,DRUG,cyclophosphamide,clinicalbert,7,7.0
+NCT01788020,DRUG,bortezomib,bert-base-uncased,5,5.0
+NCT01788020,DRUG,bortezomib,roberta-base,5,5.0
+NCT01788020,DRUG,bortezomib,clinicalbert,4,4.0
+NCT01788020,DRUG,rituximab,bert-base-uncased,5,5.0
+NCT01788020,DRUG,rituximab,roberta-base,4,4.0
+NCT01788020,DRUG,rituximab,clinicalbert,4,4.0
+NCT01788020,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT01788020,DRUG,chemotherapy,roberta-base,3,3.0
+NCT01788020,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT06869382,DRUG,myocardial infarction,bert-base-uncased,6,3.0
+NCT06869382,DRUG,myocardial infarction,roberta-base,6,3.0
+NCT06869382,DRUG,myocardial infarction,clinicalbert,7,3.5
+NCT06869382,DRUG,heart failure,bert-base-uncased,2,1.0
+NCT06869382,DRUG,heart failure,roberta-base,2,1.0
+NCT06869382,DRUG,heart failure,clinicalbert,2,1.0
+NCT06869382,DRUG,immunoglobulin,bert-base-uncased,6,6.0
+NCT06869382,DRUG,immunoglobulin,roberta-base,5,5.0
+NCT06869382,DRUG,immunoglobulin,clinicalbert,5,5.0
+NCT06869382,DRUG,hemoglobin,bert-base-uncased,4,4.0
+NCT06869382,DRUG,hemoglobin,roberta-base,2,2.0
+NCT06869382,DRUG,hemoglobin,clinicalbert,4,4.0
+NCT03227224,DRUG,dose-response,bert-base-uncased,3,3.0
+NCT03227224,DRUG,dose-response,roberta-base,3,3.0
+NCT03227224,DRUG,dose-response,clinicalbert,3,3.0
+NCT04916080,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT04916080,DRUG,intravenous,roberta-base,4,4.0
+NCT04916080,DRUG,intravenous,clinicalbert,3,3.0
+NCT00498979,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00498979,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00498979,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT00498979,DRUG,interferon,bert-base-uncased,3,3.0
+NCT00498979,DRUG,interferon,roberta-base,3,3.0
+NCT00498979,DRUG,interferon,clinicalbert,3,3.0
+NCT00046462,DRUG,metformin,bert-base-uncased,3,3.0
+NCT00046462,DRUG,metformin,roberta-base,3,3.0
+NCT00046462,DRUG,metformin,clinicalbert,3,3.0
+NCT03324503,DRUG,prednisone,bert-base-uncased,4,4.0
+NCT03324503,DRUG,prednisone,roberta-base,3,3.0
+NCT03324503,DRUG,prednisone,clinicalbert,3,3.0
+NCT03324503,DRUG,prednisolone,bert-base-uncased,5,5.0
+NCT03324503,DRUG,prednisolone,roberta-base,4,4.0
+NCT03324503,DRUG,prednisolone,clinicalbert,4,4.0
+NCT04107103,DRUG,nivolumab,bert-base-uncased,4,4.0
+NCT04107103,DRUG,nivolumab,roberta-base,5,5.0
+NCT04107103,DRUG,nivolumab,clinicalbert,4,4.0
+NCT01774903,DRUG,transdermal,bert-base-uncased,3,3.0
+NCT01774903,DRUG,transdermal,roberta-base,3,3.0
+NCT01774903,DRUG,transdermal,clinicalbert,3,3.0
+NCT05086627,DRUG,radiotherapy,bert-base-uncased,2,2.0
+NCT05086627,DRUG,radiotherapy,roberta-base,3,3.0
+NCT05086627,DRUG,radiotherapy,clinicalbert,4,4.0
+NCT05086627,DRUG,randomized controlled,bert-base-uncased,3,1.5
+NCT05086627,DRUG,randomized controlled,roberta-base,3,1.5
+NCT05086627,DRUG,randomized controlled,clinicalbert,3,1.5
+NCT01471470,DRUG,bevacizumab,bert-base-uncased,5,5.0
+NCT01471470,DRUG,bevacizumab,roberta-base,6,6.0
+NCT01471470,DRUG,bevacizumab,clinicalbert,5,5.0
+NCT00433069,DRUG,interferon,bert-base-uncased,3,3.0
+NCT00433069,DRUG,interferon,roberta-base,3,3.0
+NCT00433069,DRUG,interferon,clinicalbert,3,3.0
+NCT03520569,DRUG,hyperglycemia,bert-base-uncased,4,4.0
+NCT03520569,DRUG,hyperglycemia,roberta-base,4,4.0
+NCT03520569,DRUG,hyperglycemia,clinicalbert,5,5.0
+NCT00511069,DRUG,imatinib,bert-base-uncased,3,3.0
+NCT00511069,DRUG,imatinib,roberta-base,3,3.0
+NCT00511069,DRUG,imatinib,clinicalbert,3,3.0
+NCT00511069,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00511069,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00511069,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT00511069,DRUG,apoptosis,bert-base-uncased,3,3.0
+NCT00511069,DRUG,apoptosis,roberta-base,3,3.0
+NCT00511069,DRUG,apoptosis,clinicalbert,3,3.0
+NCT00511069,DRUG,proliferation,bert-base-uncased,1,1.0
+NCT00511069,DRUG,proliferation,roberta-base,3,3.0
+NCT00511069,DRUG,proliferation,clinicalbert,3,3.0
+NCT00511069,DRUG,interferon,bert-base-uncased,3,3.0
+NCT00511069,DRUG,interferon,roberta-base,3,3.0
+NCT00511069,DRUG,interferon,clinicalbert,3,3.0
+NCT06714669,DRUG,randomized controlled,bert-base-uncased,3,1.5
+NCT06714669,DRUG,randomized controlled,roberta-base,3,1.5
+NCT06714669,DRUG,randomized controlled,clinicalbert,3,1.5
+NCT02169583,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT02169583,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT02169583,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT02169583,DRUG,bioavailability,bert-base-uncased,4,4.0
+NCT02169583,DRUG,bioavailability,roberta-base,3,3.0
+NCT02169583,DRUG,bioavailability,clinicalbert,4,4.0
+NCT02169583,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT02169583,DRUG,intravenous,roberta-base,4,4.0
+NCT02169583,DRUG,intravenous,clinicalbert,3,3.0
+NCT03753776,DRUG,radiotherapy,bert-base-uncased,2,2.0
+NCT03753776,DRUG,radiotherapy,roberta-base,3,3.0
+NCT03753776,DRUG,radiotherapy,clinicalbert,4,4.0
+NCT03760276,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT03760276,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT03760276,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT00551291,DRUG,prednisone,bert-base-uncased,4,4.0
+NCT00551291,DRUG,prednisone,roberta-base,3,3.0
+NCT00551291,DRUG,prednisone,clinicalbert,3,3.0
+NCT00134550,DRUG,atorvastatin,bert-base-uncased,5,5.0
+NCT00134550,DRUG,atorvastatin,roberta-base,4,4.0
+NCT00134550,DRUG,atorvastatin,clinicalbert,4,4.0
+NCT01099618,DRUG,metformin,bert-base-uncased,3,3.0
+NCT01099618,DRUG,metformin,roberta-base,3,3.0
+NCT01099618,DRUG,metformin,clinicalbert,3,3.0
+NCT06856590,DRUG,overall survival,bert-base-uncased,2,1.0
+NCT06856590,DRUG,overall survival,roberta-base,3,1.5
+NCT06856590,DRUG,overall survival,clinicalbert,2,1.0
+NCT06856590,DRUG,transdermal,bert-base-uncased,3,3.0
+NCT06856590,DRUG,transdermal,roberta-base,3,3.0
+NCT06856590,DRUG,transdermal,clinicalbert,3,3.0
+NCT01000597,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT01000597,DRUG,intravenous,roberta-base,4,4.0
+NCT01000597,DRUG,intravenous,clinicalbert,3,3.0
+NCT03421860,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT03421860,DRUG,intravenous,roberta-base,4,4.0
+NCT03421860,DRUG,intravenous,clinicalbert,3,3.0
+NCT00789620,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT00789620,DRUG,intravenous,roberta-base,4,4.0
+NCT00789620,DRUG,intravenous,clinicalbert,3,3.0
+NCT03662620,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT03662620,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT03662620,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT01963260,DRUG,pharmacodynamics,bert-base-uncased,6,6.0
+NCT01963260,DRUG,pharmacodynamics,roberta-base,3,3.0
+NCT01963260,DRUG,pharmacodynamics,clinicalbert,6,6.0
+NCT01963260,DRUG,thrombocytopenia,bert-base-uncased,6,6.0
+NCT01963260,DRUG,thrombocytopenia,roberta-base,7,7.0
+NCT01963260,DRUG,thrombocytopenia,clinicalbert,6,6.0
+NCT02860260,BIOLOGICAL,intravenous,bert-base-uncased,3,3.0
+NCT02860260,BIOLOGICAL,intravenous,roberta-base,4,4.0
+NCT02860260,BIOLOGICAL,intravenous,clinicalbert,3,3.0
+NCT00644124,DRUG,prednisone,bert-base-uncased,4,4.0
+NCT00644124,DRUG,prednisone,roberta-base,3,3.0
+NCT00644124,DRUG,prednisone,clinicalbert,3,3.0
+NCT00644124,DRUG,cyclophosphamide,bert-base-uncased,6,6.0
+NCT00644124,DRUG,cyclophosphamide,roberta-base,4,4.0
+NCT00644124,DRUG,cyclophosphamide,clinicalbert,7,7.0
+NCT00644124,DRUG,methotrexate,bert-base-uncased,5,5.0
+NCT00644124,DRUG,methotrexate,roberta-base,5,5.0
+NCT00644124,DRUG,methotrexate,clinicalbert,5,5.0
+NCT00644124,DRUG,rituximab,bert-base-uncased,5,5.0
+NCT00644124,DRUG,rituximab,roberta-base,4,4.0
+NCT00644124,DRUG,rituximab,clinicalbert,4,4.0
+NCT00644124,DRUG,intrathecal,bert-base-uncased,3,3.0
+NCT00644124,DRUG,intrathecal,roberta-base,4,4.0
+NCT00644124,DRUG,intrathecal,clinicalbert,3,3.0
+NCT00797823,DRUG,subcutaneous,bert-base-uncased,3,3.0
+NCT00797823,DRUG,subcutaneous,roberta-base,3,3.0
+NCT00797823,DRUG,subcutaneous,clinicalbert,4,4.0
+NCT02439359,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT02439359,DRUG,intravenous,roberta-base,4,4.0
+NCT02439359,DRUG,intravenous,clinicalbert,3,3.0
+NCT02139280,DRUG,cyclophosphamide,bert-base-uncased,6,6.0
+NCT02139280,DRUG,cyclophosphamide,roberta-base,4,4.0
+NCT02139280,DRUG,cyclophosphamide,clinicalbert,7,7.0
+NCT00546780,DRUG,bortezomib,bert-base-uncased,5,5.0
+NCT00546780,DRUG,bortezomib,roberta-base,5,5.0
+NCT00546780,DRUG,bortezomib,clinicalbert,4,4.0
+NCT00305396,DRUG,prednisone,bert-base-uncased,4,4.0
+NCT00305396,DRUG,prednisone,roberta-base,3,3.0
+NCT00305396,DRUG,prednisone,clinicalbert,3,3.0
+NCT00305396,DRUG,tacrolimus,bert-base-uncased,4,4.0
+NCT00305396,DRUG,tacrolimus,roberta-base,5,5.0
+NCT00305396,DRUG,tacrolimus,clinicalbert,4,4.0
+NCT00305396,DRUG,mycophenolate,bert-base-uncased,5,5.0
+NCT00305396,DRUG,mycophenolate,roberta-base,4,4.0
+NCT00305396,DRUG,mycophenolate,clinicalbert,5,5.0
+NCT00305396,DRUG,sirolimus,bert-base-uncased,3,3.0
+NCT00305396,DRUG,sirolimus,roberta-base,4,4.0
+NCT00305396,DRUG,sirolimus,clinicalbert,3,3.0
+NCT01359462,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT01359462,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT01359462,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT02617446,DRUG,heart failure,bert-base-uncased,2,1.0
+NCT02617446,DRUG,heart failure,roberta-base,2,1.0
+NCT02617446,DRUG,heart failure,clinicalbert,2,1.0
+NCT04023227,DRUG,cardiomyopathy,bert-base-uncased,4,4.0
+NCT04023227,DRUG,cardiomyopathy,roberta-base,4,4.0
+NCT04023227,DRUG,cardiomyopathy,clinicalbert,5,5.0
+NCT04023227,DRUG,heart failure,bert-base-uncased,2,1.0
+NCT04023227,DRUG,heart failure,roberta-base,2,1.0
+NCT04023227,DRUG,heart failure,clinicalbert,2,1.0
+NCT00855361,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT00855361,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT00855361,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT00855361,DRUG,pharmacodynamics,bert-base-uncased,6,6.0
+NCT00855361,DRUG,pharmacodynamics,roberta-base,3,3.0
+NCT00855361,DRUG,pharmacodynamics,clinicalbert,6,6.0
+NCT04100642,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT04100642,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT04100642,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT00002842,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00002842,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00002842,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT03819127,DRUG,metformin,bert-base-uncased,3,3.0
+NCT03819127,DRUG,metformin,roberta-base,3,3.0
+NCT03819127,DRUG,metformin,clinicalbert,3,3.0
+NCT03819127,DRUG,hemoglobin,bert-base-uncased,4,4.0
+NCT03819127,DRUG,hemoglobin,roberta-base,2,2.0
+NCT03819127,DRUG,hemoglobin,clinicalbert,4,4.0
+NCT04449861,DRUG,durvalumab,bert-base-uncased,4,4.0
+NCT04449861,DRUG,durvalumab,roberta-base,5,5.0
+NCT04449861,DRUG,durvalumab,clinicalbert,4,4.0
+NCT00664755,DRUG,transdermal,bert-base-uncased,3,3.0
+NCT00664755,DRUG,transdermal,roberta-base,3,3.0
+NCT00664755,DRUG,transdermal,clinicalbert,3,3.0
+NCT05999955,DRUG,dexamethasone,bert-base-uncased,5,5.0
+NCT05999955,DRUG,dexamethasone,roberta-base,6,6.0
+NCT05999955,DRUG,dexamethasone,clinicalbert,5,5.0
+NCT00267826,DRUG,rituximab,bert-base-uncased,5,5.0
+NCT00267826,DRUG,rituximab,roberta-base,4,4.0
+NCT00267826,DRUG,rituximab,clinicalbert,4,4.0
+NCT00267826,DRUG,proliferation,bert-base-uncased,1,1.0
+NCT00267826,DRUG,proliferation,roberta-base,3,3.0
+NCT00267826,DRUG,proliferation,clinicalbert,3,3.0
+NCT00267826,DRUG,cytokine,bert-base-uncased,3,3.0
+NCT00267826,DRUG,cytokine,roberta-base,4,4.0
+NCT00267826,DRUG,cytokine,clinicalbert,4,4.0
+NCT00267826,DRUG,lymphocyte,bert-base-uncased,5,5.0
+NCT00267826,DRUG,lymphocyte,roberta-base,3,3.0
+NCT00267826,DRUG,lymphocyte,clinicalbert,5,5.0
+NCT00267826,DRUG,creatinine,bert-base-uncased,4,4.0
+NCT00267826,DRUG,creatinine,roberta-base,3,3.0
+NCT00267826,DRUG,creatinine,clinicalbert,3,3.0
+NCT00267826,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT00267826,DRUG,intravenous,roberta-base,4,4.0
+NCT00267826,DRUG,intravenous,clinicalbert,3,3.0
+NCT00059878,DRUG,interferon,bert-base-uncased,3,3.0
+NCT00059878,DRUG,interferon,roberta-base,3,3.0
+NCT00059878,DRUG,interferon,clinicalbert,3,3.0
+NCT00031278,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00031278,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00031278,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT00618449,DRUG,azithromycin,bert-base-uncased,5,5.0
+NCT00618449,DRUG,azithromycin,roberta-base,4,4.0
+NCT00618449,DRUG,azithromycin,clinicalbert,5,5.0
+NCT02373449,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT02373449,DRUG,intravenous,roberta-base,4,4.0
+NCT02373449,DRUG,intravenous,clinicalbert,3,3.0
+NCT00112138,DRUG,gabapentin,bert-base-uncased,4,4.0
+NCT00112138,DRUG,gabapentin,roberta-base,4,4.0
+NCT00112138,DRUG,gabapentin,clinicalbert,4,4.0
+NCT00112138,DRUG,randomized controlled,bert-base-uncased,3,1.5
+NCT00112138,DRUG,randomized controlled,roberta-base,3,1.5
+NCT00112138,DRUG,randomized controlled,clinicalbert,3,1.5
+NCT00147758,DRUG,type 2 diabetes,bert-base-uncased,3,1.0
+NCT00147758,DRUG,type 2 diabetes,roberta-base,3,1.0
+NCT00147758,DRUG,type 2 diabetes,clinicalbert,3,1.0
+NCT01157858,DRUG,everolimus,bert-base-uncased,3,3.0
+NCT01157858,DRUG,everolimus,roberta-base,3,3.0
+NCT01157858,DRUG,everolimus,clinicalbert,3,3.0
+NCT01157858,DRUG,monotherapy,bert-base-uncased,2,2.0
+NCT01157858,DRUG,monotherapy,roberta-base,2,2.0
+NCT01157858,DRUG,monotherapy,clinicalbert,4,4.0
+NCT04042558,DRUG,bevacizumab,bert-base-uncased,5,5.0
+NCT04042558,DRUG,bevacizumab,roberta-base,6,6.0
+NCT04042558,DRUG,bevacizumab,clinicalbert,5,5.0
+NCT04042558,DRUG,atezolizumab,bert-base-uncased,6,6.0
+NCT04042558,DRUG,atezolizumab,roberta-base,6,6.0
+NCT04042558,DRUG,atezolizumab,clinicalbert,5,5.0
+NCT04042558,DRUG,non-small cell,bert-base-uncased,4,2.0
+NCT04042558,DRUG,non-small cell,roberta-base,4,2.0
+NCT04042558,DRUG,non-small cell,clinicalbert,4,2.0
+NCT00044538,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00044538,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00044538,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT00044538,DRUG,non-small cell,bert-base-uncased,4,2.0
+NCT00044538,DRUG,non-small cell,roberta-base,4,2.0
+NCT00044538,DRUG,non-small cell,clinicalbert,4,2.0
+NCT01642238,DRUG,clopidogrel,bert-base-uncased,5,5.0
+NCT01642238,DRUG,clopidogrel,roberta-base,5,5.0
+NCT01642238,DRUG,clopidogrel,clinicalbert,5,5.0
+NCT03338855,DRUG,type 2 diabetes,bert-base-uncased,3,1.0
+NCT03338855,DRUG,type 2 diabetes,roberta-base,3,1.0
+NCT03338855,DRUG,type 2 diabetes,clinicalbert,3,1.0
+NCT01375426,DRUG,randomized controlled,bert-base-uncased,3,1.5
+NCT01375426,DRUG,randomized controlled,roberta-base,3,1.5
+NCT01375426,DRUG,randomized controlled,clinicalbert,3,1.5
+NCT00936026,DRUG,clopidogrel,bert-base-uncased,5,5.0
+NCT00936026,DRUG,clopidogrel,roberta-base,5,5.0
+NCT00936026,DRUG,clopidogrel,clinicalbert,5,5.0
+NCT00936026,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT00936026,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT00936026,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT00904826,DRUG,eculizumab,bert-base-uncased,5,5.0
+NCT00904826,DRUG,eculizumab,roberta-base,5,5.0
+NCT00904826,DRUG,eculizumab,clinicalbert,5,5.0
+NCT02774226,DRUG,bioavailability,bert-base-uncased,4,4.0
+NCT02774226,DRUG,bioavailability,roberta-base,3,3.0
+NCT02774226,DRUG,bioavailability,clinicalbert,4,4.0
+NCT03659578,DRUG,non-small cell,bert-base-uncased,4,2.0
+NCT03659578,DRUG,non-small cell,roberta-base,4,2.0
+NCT03659578,DRUG,non-small cell,clinicalbert,4,2.0
+NCT04068948,DRUG,randomized controlled,bert-base-uncased,3,1.5
+NCT04068948,DRUG,randomized controlled,roberta-base,3,1.5
+NCT04068948,DRUG,randomized controlled,clinicalbert,3,1.5
+NCT05661578,DRUG,atezolizumab,bert-base-uncased,6,6.0
+NCT05661578,DRUG,atezolizumab,roberta-base,6,6.0
+NCT05661578,DRUG,atezolizumab,clinicalbert,5,5.0
+NCT05661578,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT05661578,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT05661578,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT05661578,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT05661578,DRUG,intravenous,roberta-base,4,4.0
+NCT05661578,DRUG,intravenous,clinicalbert,3,3.0
+NCT04060043,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT04060043,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT04060043,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT00720148,DRUG,sunitinib,bert-base-uncased,4,4.0
+NCT00720148,DRUG,sunitinib,roberta-base,4,4.0
+NCT00720148,DRUG,sunitinib,clinicalbert,4,4.0
+NCT00720148,DRUG,bortezomib,bert-base-uncased,5,5.0
+NCT00720148,DRUG,bortezomib,roberta-base,5,5.0
+NCT00720148,DRUG,bortezomib,clinicalbert,4,4.0
+NCT01689285,DRUG,bioavailability,bert-base-uncased,4,4.0
+NCT01689285,DRUG,bioavailability,roberta-base,3,3.0
+NCT01689285,DRUG,bioavailability,clinicalbert,4,4.0
+NCT03586843,DRUG,bioavailability,bert-base-uncased,4,4.0
+NCT03586843,DRUG,bioavailability,roberta-base,3,3.0
+NCT03586843,DRUG,bioavailability,clinicalbert,4,4.0
+NCT03586843,DRUG,subcutaneous,bert-base-uncased,3,3.0
+NCT03586843,DRUG,subcutaneous,roberta-base,3,3.0
+NCT03586843,DRUG,subcutaneous,clinicalbert,4,4.0
+NCT02911948,DRUG,metformin,bert-base-uncased,3,3.0
+NCT02911948,DRUG,metformin,roberta-base,3,3.0
+NCT02911948,DRUG,metformin,clinicalbert,3,3.0
+NCT02911948,DRUG,type 2 diabetes,bert-base-uncased,3,1.0
+NCT02911948,DRUG,type 2 diabetes,roberta-base,3,1.0
+NCT02911948,DRUG,type 2 diabetes,clinicalbert,3,1.0
+NCT05724485,DRUG,randomized controlled,bert-base-uncased,3,1.5
+NCT05724485,DRUG,randomized controlled,roberta-base,3,1.5
+NCT05724485,DRUG,randomized controlled,clinicalbert,3,1.5
+NCT00237185,DRUG,imatinib,bert-base-uncased,3,3.0
+NCT00237185,DRUG,imatinib,roberta-base,3,3.0
+NCT00237185,DRUG,imatinib,clinicalbert,3,3.0
+NCT01528735,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT01528735,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT01528735,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT01917617,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT01917617,DRUG,chemotherapy,roberta-base,3,3.0
+NCT01917617,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT03370276,DRUG,cetuximab,bert-base-uncased,5,5.0
+NCT03370276,DRUG,cetuximab,roberta-base,5,5.0
+NCT03370276,DRUG,cetuximab,clinicalbert,4,4.0
+NCT03370276,DRUG,nivolumab,bert-base-uncased,4,4.0
+NCT03370276,DRUG,nivolumab,roberta-base,5,5.0
+NCT03370276,DRUG,nivolumab,clinicalbert,4,4.0
+NCT02175017,DRUG,radiotherapy,bert-base-uncased,2,2.0
+NCT02175017,DRUG,radiotherapy,roberta-base,3,3.0
+NCT02175017,DRUG,radiotherapy,clinicalbert,4,4.0
+NCT02175017,DRUG,non-small cell,bert-base-uncased,4,2.0
+NCT02175017,DRUG,non-small cell,roberta-base,4,2.0
+NCT02175017,DRUG,non-small cell,clinicalbert,4,2.0
+NCT05834517,DRUG,proliferation,bert-base-uncased,1,1.0
+NCT05834517,DRUG,proliferation,roberta-base,3,3.0
+NCT05834517,DRUG,proliferation,clinicalbert,3,3.0
+NCT00963768,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT00963768,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT00963768,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT00963768,DRUG,pharmacodynamics,bert-base-uncased,6,6.0
+NCT00963768,DRUG,pharmacodynamics,roberta-base,3,3.0
+NCT00963768,DRUG,pharmacodynamics,clinicalbert,6,6.0
+NCT00963768,DRUG,type 2 diabetes,bert-base-uncased,3,1.0
+NCT00963768,DRUG,type 2 diabetes,roberta-base,3,1.0
+NCT00963768,DRUG,type 2 diabetes,clinicalbert,3,1.0
+NCT00058968,DRUG,neuropathy,bert-base-uncased,3,3.0
+NCT00058968,DRUG,neuropathy,roberta-base,3,3.0
+NCT00058968,DRUG,neuropathy,clinicalbert,3,3.0
+NCT01515189,BIOLOGICAL,ipilimumab,bert-base-uncased,4,4.0
+NCT01515189,BIOLOGICAL,ipilimumab,roberta-base,4,4.0
+NCT01515189,BIOLOGICAL,ipilimumab,clinicalbert,4,4.0
+NCT06191991,DRUG,atorvastatin,bert-base-uncased,5,5.0
+NCT06191991,DRUG,atorvastatin,roberta-base,4,4.0
+NCT06191991,DRUG,atorvastatin,clinicalbert,4,4.0
+NCT03357874,DRUG,clopidogrel,bert-base-uncased,5,5.0
+NCT03357874,DRUG,clopidogrel,roberta-base,5,5.0
+NCT03357874,DRUG,clopidogrel,clinicalbert,5,5.0
+NCT03357874,DRUG,creatinine,bert-base-uncased,4,4.0
+NCT03357874,DRUG,creatinine,roberta-base,3,3.0
+NCT03357874,DRUG,creatinine,clinicalbert,3,3.0
+NCT03234374,DRUG,bioavailability,bert-base-uncased,4,4.0
+NCT03234374,DRUG,bioavailability,roberta-base,3,3.0
+NCT03234374,DRUG,bioavailability,clinicalbert,4,4.0
+NCT03531918,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT03531918,DRUG,chemotherapy,roberta-base,3,3.0
+NCT03531918,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT00602797,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00602797,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00602797,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT00602797,DRUG,non-small cell,bert-base-uncased,4,2.0
+NCT00602797,DRUG,non-small cell,roberta-base,4,2.0
+NCT00602797,DRUG,non-small cell,clinicalbert,4,2.0
+NCT01394510,DRUG,type 2 diabetes,bert-base-uncased,3,1.0
+NCT01394510,DRUG,type 2 diabetes,roberta-base,3,1.0
+NCT01394510,DRUG,type 2 diabetes,clinicalbert,3,1.0
+NCT00744146,BIOLOGICAL,pharmacokinetics,bert-base-uncased,6,6.0
+NCT00744146,BIOLOGICAL,pharmacokinetics,roberta-base,4,4.0
+NCT00744146,BIOLOGICAL,pharmacokinetics,clinicalbert,5,5.0
+NCT00744146,BIOLOGICAL,intramuscular,bert-base-uncased,3,3.0
+NCT00744146,BIOLOGICAL,intramuscular,roberta-base,4,4.0
+NCT00744146,BIOLOGICAL,intramuscular,clinicalbert,3,3.0
+NCT04489888,DRUG,pembrolizumab,bert-base-uncased,6,6.0
+NCT04489888,DRUG,pembrolizumab,roberta-base,6,6.0
+NCT04489888,DRUG,pembrolizumab,clinicalbert,6,6.0
+NCT00410488,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00410488,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00410488,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT01324388,DRUG,lisinopril,bert-base-uncased,4,4.0
+NCT01324388,DRUG,lisinopril,roberta-base,4,4.0
+NCT01324388,DRUG,lisinopril,clinicalbert,4,4.0
+NCT06092788,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT06092788,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT06092788,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT03744403,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT03744403,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT03744403,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT03744403,DRUG,dose-escalation,bert-base-uncased,5,5.0
+NCT03744403,DRUG,dose-escalation,roberta-base,4,4.0
+NCT03744403,DRUG,dose-escalation,clinicalbert,4,4.0
+NCT02756403,DRUG,azithromycin,bert-base-uncased,5,5.0
+NCT02756403,DRUG,azithromycin,roberta-base,4,4.0
+NCT02756403,DRUG,azithromycin,clinicalbert,5,5.0
+NCT02756403,DRUG,randomized controlled,bert-base-uncased,3,1.5
+NCT02756403,DRUG,randomized controlled,roberta-base,3,1.5
+NCT02756403,DRUG,randomized controlled,clinicalbert,3,1.5
+NCT01949103,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT01949103,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT01949103,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT03224403,DRUG,acetaminophen,bert-base-uncased,5,5.0
+NCT03224403,DRUG,acetaminophen,roberta-base,3,3.0
+NCT03224403,DRUG,acetaminophen,clinicalbert,4,4.0
+NCT03224403,DRUG,ibuprofen,bert-base-uncased,4,4.0
+NCT03224403,DRUG,ibuprofen,roberta-base,4,4.0
+NCT03224403,DRUG,ibuprofen,clinicalbert,3,3.0
+NCT02582242,DRUG,type 2 diabetes,bert-base-uncased,3,1.0
+NCT02582242,DRUG,type 2 diabetes,roberta-base,3,1.0
+NCT02582242,DRUG,type 2 diabetes,clinicalbert,3,1.0
+NCT03666442,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT03666442,DRUG,chemotherapy,roberta-base,3,3.0
+NCT03666442,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT00924170,DRUG,cyclophosphamide,bert-base-uncased,6,6.0
+NCT00924170,DRUG,cyclophosphamide,roberta-base,4,4.0
+NCT00924170,DRUG,cyclophosphamide,clinicalbert,7,7.0
+NCT00924170,DRUG,alemtuzumab,bert-base-uncased,5,5.0
+NCT00924170,DRUG,alemtuzumab,roberta-base,6,6.0
+NCT00924170,DRUG,alemtuzumab,clinicalbert,5,5.0
+NCT00924170,DRUG,daclizumab,bert-base-uncased,5,5.0
+NCT00924170,DRUG,daclizumab,roberta-base,5,5.0
+NCT00924170,DRUG,daclizumab,clinicalbert,5,5.0
+NCT00924170,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT00924170,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT00924170,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT00924170,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00924170,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00924170,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT00924170,DRUG,overall survival,bert-base-uncased,2,1.0
+NCT00924170,DRUG,overall survival,roberta-base,3,1.5
+NCT00924170,DRUG,overall survival,clinicalbert,2,1.0
+NCT00924170,DRUG,differentiation,bert-base-uncased,1,1.0
+NCT00924170,DRUG,differentiation,roberta-base,2,2.0
+NCT00924170,DRUG,differentiation,clinicalbert,2,2.0
+NCT00924170,DRUG,interleukin,bert-base-uncased,4,4.0
+NCT00924170,DRUG,interleukin,roberta-base,4,4.0
+NCT00924170,DRUG,interleukin,clinicalbert,3,3.0
+NCT00924170,DRUG,neutrophil,bert-base-uncased,4,4.0
+NCT00924170,DRUG,neutrophil,roberta-base,4,4.0
+NCT00924170,DRUG,neutrophil,clinicalbert,4,4.0
+NCT00924170,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT00924170,DRUG,intravenous,roberta-base,4,4.0
+NCT00924170,DRUG,intravenous,clinicalbert,3,3.0
+NCT02775773,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT02775773,DRUG,intravenous,roberta-base,4,4.0
+NCT02775773,DRUG,intravenous,clinicalbert,3,3.0
+NCT03141073,DRUG,metformin,bert-base-uncased,3,3.0
+NCT03141073,DRUG,metformin,roberta-base,3,3.0
+NCT03141073,DRUG,metformin,clinicalbert,3,3.0
+NCT07229469,DRUG,randomized controlled,bert-base-uncased,3,1.5
+NCT07229469,DRUG,randomized controlled,roberta-base,3,1.5
+NCT07229469,DRUG,randomized controlled,clinicalbert,3,1.5
+NCT03263715,DRUG,tocilizumab,bert-base-uncased,6,6.0
+NCT03263715,DRUG,tocilizumab,roberta-base,5,5.0
+NCT03263715,DRUG,tocilizumab,clinicalbert,4,4.0
+NCT00049517,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00049517,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00049517,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT00003540,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00003540,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00003540,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT00004889,BIOLOGICAL,rituximab,bert-base-uncased,5,5.0
+NCT00004889,BIOLOGICAL,rituximab,roberta-base,4,4.0
+NCT00004889,BIOLOGICAL,rituximab,clinicalbert,4,4.0
+NCT02222168,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT02222168,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT02222168,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT04509674,DRUG,myocardial infarction,bert-base-uncased,6,3.0
+NCT04509674,DRUG,myocardial infarction,roberta-base,6,3.0
+NCT04509674,DRUG,myocardial infarction,clinicalbert,7,3.5
+NCT04509674,DRUG,heart failure,bert-base-uncased,2,1.0
+NCT04509674,DRUG,heart failure,roberta-base,2,1.0
+NCT04509674,DRUG,heart failure,clinicalbert,2,1.0
+NCT04509674,DRUG,type 2 diabetes,bert-base-uncased,3,1.0
+NCT04509674,DRUG,type 2 diabetes,roberta-base,3,1.0
+NCT04509674,DRUG,type 2 diabetes,clinicalbert,3,1.0
+NCT02845713,DRUG,ivermectin,bert-base-uncased,5,5.0
+NCT02845713,DRUG,ivermectin,roberta-base,4,4.0
+NCT02845713,DRUG,ivermectin,clinicalbert,5,5.0
+NCT03715413,DRUG,tamoxifen,bert-base-uncased,4,4.0
+NCT03715413,DRUG,tamoxifen,roberta-base,5,5.0
+NCT03715413,DRUG,tamoxifen,clinicalbert,3,3.0
+NCT00095524,DRUG,aripiprazole,bert-base-uncased,5,5.0
+NCT00095524,DRUG,aripiprazole,roberta-base,5,5.0
+NCT00095524,DRUG,aripiprazole,clinicalbert,5,5.0
+NCT00095524,DRUG,olanzapine,bert-base-uncased,3,3.0
+NCT00095524,DRUG,olanzapine,roberta-base,4,4.0
+NCT00095524,DRUG,olanzapine,clinicalbert,3,3.0
+NCT02215759,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT02215759,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT02215759,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT00696059,DRUG,adalimumab,bert-base-uncased,4,4.0
+NCT00696059,DRUG,adalimumab,roberta-base,3,3.0
+NCT00696059,DRUG,adalimumab,clinicalbert,4,4.0
+NCT06319859,DRUG,intrathecal,bert-base-uncased,3,3.0
+NCT06319859,DRUG,intrathecal,roberta-base,4,4.0
+NCT06319859,DRUG,intrathecal,clinicalbert,3,3.0
+NCT01697059,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT01697059,DRUG,intravenous,roberta-base,4,4.0
+NCT01697059,DRUG,intravenous,clinicalbert,3,3.0
+NCT02877979,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT02877979,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT02877979,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT02819479,DRUG,bevacizumab,bert-base-uncased,5,5.0
+NCT02819479,DRUG,bevacizumab,roberta-base,6,6.0
+NCT02819479,DRUG,bevacizumab,clinicalbert,5,5.0
+NCT03187496,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT03187496,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT03187496,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT05286346,DRUG,monotherapy,bert-base-uncased,2,2.0
+NCT05286346,DRUG,monotherapy,roberta-base,2,2.0
+NCT05286346,DRUG,monotherapy,clinicalbert,4,4.0
+NCT02307227,DRUG,trastuzumab,bert-base-uncased,5,5.0
+NCT02307227,DRUG,trastuzumab,roberta-base,5,5.0
+NCT02307227,DRUG,trastuzumab,clinicalbert,4,4.0
+NCT01160861,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT01160861,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT01160861,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT07140627,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT07140627,DRUG,intravenous,roberta-base,4,4.0
+NCT07140627,DRUG,intravenous,clinicalbert,3,3.0
+NCT00727961,DRUG,monotherapy,bert-base-uncased,2,2.0
+NCT00727961,DRUG,monotherapy,roberta-base,2,2.0
+NCT00727961,DRUG,monotherapy,clinicalbert,4,4.0
+NCT01031186,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT01031186,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT01031186,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT02808455,DRUG,bioavailability,bert-base-uncased,4,4.0
+NCT02808455,DRUG,bioavailability,roberta-base,3,3.0
+NCT02808455,DRUG,bioavailability,clinicalbert,4,4.0
+NCT04691726,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT04691726,DRUG,intravenous,roberta-base,4,4.0
+NCT04691726,DRUG,intravenous,clinicalbert,3,3.0
+NCT03174548,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT03174548,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT03174548,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT03174548,DRUG,bioavailability,bert-base-uncased,4,4.0
+NCT03174548,DRUG,bioavailability,roberta-base,3,3.0
+NCT03174548,DRUG,bioavailability,clinicalbert,4,4.0
+NCT00885885,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00885885,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00885885,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT01969643,DRUG,trastuzumab,bert-base-uncased,5,5.0
+NCT01969643,DRUG,trastuzumab,roberta-base,5,5.0
+NCT01969643,DRUG,trastuzumab,clinicalbert,4,4.0
+NCT00090038,DRUG,rituximab,bert-base-uncased,5,5.0
+NCT00090038,DRUG,rituximab,roberta-base,4,4.0
+NCT00090038,DRUG,rituximab,clinicalbert,4,4.0
+NCT03685448,DRUG,immunotherapy,bert-base-uncased,5,5.0
+NCT03685448,DRUG,immunotherapy,roberta-base,3,3.0
+NCT03685448,DRUG,immunotherapy,clinicalbert,5,5.0
+NCT03685448,DRUG,overall survival,bert-base-uncased,2,1.0
+NCT03685448,DRUG,overall survival,roberta-base,3,1.5
+NCT03685448,DRUG,overall survival,clinicalbert,2,1.0
+NCT03685448,DRUG,progression-free survival,bert-base-uncased,4,2.0
+NCT03685448,DRUG,progression-free survival,roberta-base,5,2.5
+NCT03685448,DRUG,progression-free survival,clinicalbert,4,2.0
+NCT00556049,DRUG,sunitinib,bert-base-uncased,4,4.0
+NCT00556049,DRUG,sunitinib,roberta-base,4,4.0
+NCT00556049,DRUG,sunitinib,clinicalbert,4,4.0
+NCT00556049,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00556049,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00556049,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT02070549,DRUG,trametinib,bert-base-uncased,4,4.0
+NCT02070549,DRUG,trametinib,roberta-base,5,5.0
+NCT02070549,DRUG,trametinib,clinicalbert,3,3.0
+NCT00104858,DRUG,cyclosporine,bert-base-uncased,5,5.0
+NCT00104858,DRUG,cyclosporine,roberta-base,4,4.0
+NCT00104858,DRUG,cyclosporine,clinicalbert,5,5.0
+NCT00104858,DRUG,mycophenolate,bert-base-uncased,5,5.0
+NCT00104858,DRUG,mycophenolate,roberta-base,4,4.0
+NCT00104858,DRUG,mycophenolate,clinicalbert,5,5.0
+NCT00104858,DRUG,rituximab,bert-base-uncased,5,5.0
+NCT00104858,DRUG,rituximab,roberta-base,4,4.0
+NCT00104858,DRUG,rituximab,clinicalbert,4,4.0
+NCT00104858,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00104858,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00104858,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT00874848,DRUG,cetuximab,bert-base-uncased,5,5.0
+NCT00874848,DRUG,cetuximab,roberta-base,5,5.0
+NCT00874848,DRUG,cetuximab,clinicalbert,4,4.0
+NCT01539655,DRUG,omeprazole,bert-base-uncased,4,4.0
+NCT01539655,DRUG,omeprazole,roberta-base,4,4.0
+NCT01539655,DRUG,omeprazole,clinicalbert,4,4.0
+NCT01539655,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT01539655,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT01539655,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT01043926,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT01043926,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT01043926,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT01764178,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT01764178,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT01764178,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT00231855,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00231855,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00231855,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT00231855,DRUG,overall survival,bert-base-uncased,2,1.0
+NCT00231855,DRUG,overall survival,roberta-base,3,1.5
+NCT00231855,DRUG,overall survival,clinicalbert,2,1.0
+NCT03988426,BIOLOGICAL,immunoglobulin,bert-base-uncased,6,6.0
+NCT03988426,BIOLOGICAL,immunoglobulin,roberta-base,5,5.0
+NCT03988426,BIOLOGICAL,immunoglobulin,clinicalbert,5,5.0
+NCT03988426,BIOLOGICAL,subcutaneous,bert-base-uncased,3,3.0
+NCT03988426,BIOLOGICAL,subcutaneous,roberta-base,3,3.0
+NCT03988426,BIOLOGICAL,subcutaneous,clinicalbert,4,4.0
+NCT03149848,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT03149848,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT03149848,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT01367626,DRUG,letrozole,bert-base-uncased,4,4.0
+NCT01367626,DRUG,letrozole,roberta-base,4,4.0
+NCT01367626,DRUG,letrozole,clinicalbert,4,4.0
+NCT01367626,DRUG,bioequivalence,bert-base-uncased,5,5.0
+NCT01367626,DRUG,bioequivalence,roberta-base,5,5.0
+NCT01367626,DRUG,bioequivalence,clinicalbert,4,4.0
+NCT03231085,DRUG,bioavailability,bert-base-uncased,4,4.0
+NCT03231085,DRUG,bioavailability,roberta-base,3,3.0
+NCT03231085,DRUG,bioavailability,clinicalbert,4,4.0
+NCT03231085,DRUG,hemoglobin,bert-base-uncased,4,4.0
+NCT03231085,DRUG,hemoglobin,roberta-base,2,2.0
+NCT03231085,DRUG,hemoglobin,clinicalbert,4,4.0
+NCT03771755,DRUG,acetaminophen,bert-base-uncased,5,5.0
+NCT03771755,DRUG,acetaminophen,roberta-base,3,3.0
+NCT03771755,DRUG,acetaminophen,clinicalbert,4,4.0
+NCT03771755,DRUG,ibuprofen,bert-base-uncased,4,4.0
+NCT03771755,DRUG,ibuprofen,roberta-base,4,4.0
+NCT03771755,DRUG,ibuprofen,clinicalbert,3,3.0
+NCT02313155,DRUG,subcutaneous,bert-base-uncased,3,3.0
+NCT02313155,DRUG,subcutaneous,roberta-base,3,3.0
+NCT02313155,DRUG,subcutaneous,clinicalbert,4,4.0
+NCT02313155,DRUG,intramuscular,bert-base-uncased,3,3.0
+NCT02313155,DRUG,intramuscular,roberta-base,4,4.0
+NCT02313155,DRUG,intramuscular,clinicalbert,3,3.0
+NCT00820885,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT00820885,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT00820885,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT00820885,DRUG,subcutaneous,bert-base-uncased,3,3.0
+NCT00820885,DRUG,subcutaneous,roberta-base,3,3.0
+NCT00820885,DRUG,subcutaneous,clinicalbert,4,4.0
+NCT02273843,DRUG,randomized controlled,bert-base-uncased,3,1.5
+NCT02273843,DRUG,randomized controlled,roberta-base,3,1.5
+NCT02273843,DRUG,randomized controlled,clinicalbert,3,1.5
+NCT02273843,DRUG,interleukin,bert-base-uncased,4,4.0
+NCT02273843,DRUG,interleukin,roberta-base,4,4.0
+NCT02273843,DRUG,interleukin,clinicalbert,3,3.0
+NCT04383743,DRUG,methotrexate,bert-base-uncased,5,5.0
+NCT04383743,DRUG,methotrexate,roberta-base,5,5.0
+NCT04383743,DRUG,methotrexate,clinicalbert,5,5.0
+NCT04383743,DRUG,pembrolizumab,bert-base-uncased,6,6.0
+NCT04383743,DRUG,pembrolizumab,roberta-base,6,6.0
+NCT04383743,DRUG,pembrolizumab,clinicalbert,6,6.0
+NCT04383743,DRUG,immunotherapy,bert-base-uncased,5,5.0
+NCT04383743,DRUG,immunotherapy,roberta-base,3,3.0
+NCT04383743,DRUG,immunotherapy,clinicalbert,5,5.0
+NCT04383743,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT04383743,DRUG,chemotherapy,roberta-base,3,3.0
+NCT04383743,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT03441555,DRUG,venetoclax,bert-base-uncased,5,5.0
+NCT03441555,DRUG,venetoclax,roberta-base,4,4.0
+NCT03441555,DRUG,venetoclax,clinicalbert,4,4.0
+NCT03441555,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT03441555,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT03441555,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT03441555,DRUG,dose-escalation,bert-base-uncased,5,5.0
+NCT03441555,DRUG,dose-escalation,roberta-base,4,4.0
+NCT03441555,DRUG,dose-escalation,clinicalbert,4,4.0
+NCT07054255,DRUG,bioequivalence,bert-base-uncased,5,5.0
+NCT07054255,DRUG,bioequivalence,roberta-base,5,5.0
+NCT07054255,DRUG,bioequivalence,clinicalbert,4,4.0
+NCT05915026,DRUG,adverse event,bert-base-uncased,2,1.0
+NCT05915026,DRUG,adverse event,roberta-base,3,1.5
+NCT05915026,DRUG,adverse event,clinicalbert,3,1.5
+NCT05915026,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT05915026,DRUG,intravenous,roberta-base,4,4.0
+NCT05915026,DRUG,intravenous,clinicalbert,3,3.0
+NCT01491035,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT01491035,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT01491035,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT00401635,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00401635,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00401635,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT00467376,DRUG,hypoglycemia,bert-base-uncased,6,6.0
+NCT00467376,DRUG,hypoglycemia,roberta-base,4,4.0
+NCT00467376,DRUG,hypoglycemia,clinicalbert,5,5.0
+NCT00467376,DRUG,type 2 diabetes,bert-base-uncased,3,1.0
+NCT00467376,DRUG,type 2 diabetes,roberta-base,3,1.0
+NCT00467376,DRUG,type 2 diabetes,clinicalbert,3,1.0
+NCT00001317,DRUG,interferon,bert-base-uncased,3,3.0
+NCT00001317,DRUG,interferon,roberta-base,3,3.0
+NCT00001317,DRUG,interferon,clinicalbert,3,3.0
+NCT00001317,DRUG,subcutaneous,bert-base-uncased,3,3.0
+NCT00001317,DRUG,subcutaneous,roberta-base,3,3.0
+NCT00001317,DRUG,subcutaneous,clinicalbert,4,4.0
+NCT03276689,DRUG,neuropathy,bert-base-uncased,3,3.0
+NCT03276689,DRUG,neuropathy,roberta-base,3,3.0
+NCT03276689,DRUG,neuropathy,clinicalbert,3,3.0
+NCT02003391,DRUG,monotherapy,bert-base-uncased,2,2.0
+NCT02003391,DRUG,monotherapy,roberta-base,2,2.0
+NCT02003391,DRUG,monotherapy,clinicalbert,4,4.0
+NCT02216890,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT02216890,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT02216890,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT01755390,DRUG,bioavailability,bert-base-uncased,4,4.0
+NCT01755390,DRUG,bioavailability,roberta-base,3,3.0
+NCT01755390,DRUG,bioavailability,clinicalbert,4,4.0
+NCT01755390,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT01755390,DRUG,intravenous,roberta-base,4,4.0
+NCT01755390,DRUG,intravenous,clinicalbert,3,3.0
+NCT04552197,DRUG,pharmacodynamics,bert-base-uncased,6,6.0
+NCT04552197,DRUG,pharmacodynamics,roberta-base,3,3.0
+NCT04552197,DRUG,pharmacodynamics,clinicalbert,6,6.0
+NCT00237913,DRUG,quetiapine,bert-base-uncased,3,3.0
+NCT00237913,DRUG,quetiapine,roberta-base,4,4.0
+NCT00237913,DRUG,quetiapine,clinicalbert,3,3.0
+NCT00237913,DRUG,aripiprazole,bert-base-uncased,5,5.0
+NCT00237913,DRUG,aripiprazole,roberta-base,5,5.0
+NCT00237913,DRUG,aripiprazole,clinicalbert,5,5.0
+NCT00237913,DRUG,olanzapine,bert-base-uncased,3,3.0
+NCT00237913,DRUG,olanzapine,roberta-base,4,4.0
+NCT00237913,DRUG,olanzapine,clinicalbert,3,3.0
+NCT00237913,DRUG,risperidone,bert-base-uncased,4,4.0
+NCT00237913,DRUG,risperidone,roberta-base,4,4.0
+NCT00237913,DRUG,risperidone,clinicalbert,4,4.0
+NCT03173560,DRUG,everolimus,bert-base-uncased,3,3.0
+NCT03173560,DRUG,everolimus,roberta-base,3,3.0
+NCT03173560,DRUG,everolimus,clinicalbert,3,3.0
+NCT00589420,DRUG,sorafenib,bert-base-uncased,4,4.0
+NCT00589420,DRUG,sorafenib,roberta-base,5,5.0
+NCT00589420,DRUG,sorafenib,clinicalbert,3,3.0
+NCT00589420,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00589420,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00589420,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT03964259,DRUG,methotrexate,bert-base-uncased,5,5.0
+NCT03964259,DRUG,methotrexate,roberta-base,5,5.0
+NCT03964259,DRUG,methotrexate,clinicalbert,5,5.0
+NCT03964259,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT03964259,DRUG,intravenous,roberta-base,4,4.0
+NCT03964259,DRUG,intravenous,clinicalbert,3,3.0
+NCT00525759,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00525759,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00525759,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT00525759,DRUG,apoptosis,bert-base-uncased,3,3.0
+NCT00525759,DRUG,apoptosis,roberta-base,3,3.0
+NCT00525759,DRUG,apoptosis,clinicalbert,3,3.0
+NCT00072059,BIOLOGICAL,non-small cell,bert-base-uncased,4,2.0
+NCT00072059,BIOLOGICAL,non-small cell,roberta-base,4,2.0
+NCT00072059,BIOLOGICAL,non-small cell,clinicalbert,4,2.0
+NCT00675259,DRUG,bevacizumab,bert-base-uncased,5,5.0
+NCT00675259,DRUG,bevacizumab,roberta-base,6,6.0
+NCT00675259,DRUG,bevacizumab,clinicalbert,5,5.0
+NCT00675259,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00675259,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00675259,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT00257959,DRUG,tachycardia,bert-base-uncased,4,4.0
+NCT00257959,DRUG,tachycardia,roberta-base,4,4.0
+NCT00257959,DRUG,tachycardia,clinicalbert,4,4.0
+NCT00226980,DRUG,thalidomide,bert-base-uncased,4,4.0
+NCT00226980,DRUG,thalidomide,roberta-base,4,4.0
+NCT00226980,DRUG,thalidomide,clinicalbert,3,3.0
+NCT01787396,DRUG,metformin,bert-base-uncased,3,3.0
+NCT01787396,DRUG,metformin,roberta-base,3,3.0
+NCT01787396,DRUG,metformin,clinicalbert,3,3.0
+NCT01787396,DRUG,monotherapy,bert-base-uncased,2,2.0
+NCT01787396,DRUG,monotherapy,roberta-base,2,2.0
+NCT01787396,DRUG,monotherapy,clinicalbert,4,4.0
+NCT01787396,DRUG,type 2 diabetes,bert-base-uncased,3,1.0
+NCT01787396,DRUG,type 2 diabetes,roberta-base,3,1.0
+NCT01787396,DRUG,type 2 diabetes,clinicalbert,3,1.0
+NCT04354896,DRUG,randomized controlled,bert-base-uncased,3,1.5
+NCT04354896,DRUG,randomized controlled,roberta-base,3,1.5
+NCT04354896,DRUG,randomized controlled,clinicalbert,3,1.5
+NCT00400296,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT00400296,DRUG,intravenous,roberta-base,4,4.0
+NCT00400296,DRUG,intravenous,clinicalbert,3,3.0
+NCT04417088,DRUG,monotherapy,bert-base-uncased,2,2.0
+NCT04417088,DRUG,monotherapy,roberta-base,2,2.0
+NCT04417088,DRUG,monotherapy,clinicalbert,4,4.0
+NCT05126927,BIOLOGICAL,differentiation,bert-base-uncased,1,1.0
+NCT05126927,BIOLOGICAL,differentiation,roberta-base,2,2.0
+NCT05126927,BIOLOGICAL,differentiation,clinicalbert,2,2.0
+NCT05126927,BIOLOGICAL,lymphocyte,bert-base-uncased,5,5.0
+NCT05126927,BIOLOGICAL,lymphocyte,roberta-base,3,3.0
+NCT05126927,BIOLOGICAL,lymphocyte,clinicalbert,5,5.0
+NCT02253927,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT02253927,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT02253927,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT02253927,DRUG,bioavailability,bert-base-uncased,4,4.0
+NCT02253927,DRUG,bioavailability,roberta-base,3,3.0
+NCT02253927,DRUG,bioavailability,clinicalbert,4,4.0
+NCT01434342,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT01434342,DRUG,chemotherapy,roberta-base,3,3.0
+NCT01434342,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT04265027,DRUG,bioavailability,bert-base-uncased,4,4.0
+NCT04265027,DRUG,bioavailability,roberta-base,3,3.0
+NCT04265027,DRUG,bioavailability,clinicalbert,4,4.0
+NCT04265027,DRUG,bioequivalence,bert-base-uncased,5,5.0
+NCT04265027,DRUG,bioequivalence,roberta-base,5,5.0
+NCT04265027,DRUG,bioequivalence,clinicalbert,4,4.0
+NCT03493386,DRUG,bioequivalence,bert-base-uncased,5,5.0
+NCT03493386,DRUG,bioequivalence,roberta-base,5,5.0
+NCT03493386,DRUG,bioequivalence,clinicalbert,4,4.0
+NCT00020176,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00020176,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00020176,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT02206425,DRUG,dexamethasone,bert-base-uncased,5,5.0
+NCT02206425,DRUG,dexamethasone,roberta-base,6,6.0
+NCT02206425,DRUG,dexamethasone,clinicalbert,5,5.0
+NCT02206425,DRUG,prednisone,bert-base-uncased,4,4.0
+NCT02206425,DRUG,prednisone,roberta-base,3,3.0
+NCT02206425,DRUG,prednisone,clinicalbert,3,3.0
+NCT02206425,DRUG,lenalidomide,bert-base-uncased,4,4.0
+NCT02206425,DRUG,lenalidomide,roberta-base,4,4.0
+NCT02206425,DRUG,lenalidomide,clinicalbert,4,4.0
+NCT02206425,DRUG,bortezomib,bert-base-uncased,5,5.0
+NCT02206425,DRUG,bortezomib,roberta-base,5,5.0
+NCT02206425,DRUG,bortezomib,clinicalbert,4,4.0
+NCT02206425,DRUG,carfilzomib,bert-base-uncased,5,5.0
+NCT02206425,DRUG,carfilzomib,roberta-base,5,5.0
+NCT02206425,DRUG,carfilzomib,clinicalbert,4,4.0
+NCT02206425,DRUG,ixazomib,bert-base-uncased,4,4.0
+NCT02206425,DRUG,ixazomib,roberta-base,4,4.0
+NCT02206425,DRUG,ixazomib,clinicalbert,4,4.0
+NCT02453776,DRUG,infliximab,bert-base-uncased,5,5.0
+NCT02453776,DRUG,infliximab,roberta-base,4,4.0
+NCT02453776,DRUG,infliximab,clinicalbert,5,5.0
+NCT01526889,DRUG,immunosuppressive,bert-base-uncased,5,5.0
+NCT01526889,DRUG,immunosuppressive,roberta-base,5,5.0
+NCT01526889,DRUG,immunosuppressive,clinicalbert,6,6.0
+NCT00536068,DRUG,acetaminophen,bert-base-uncased,5,5.0
+NCT00536068,DRUG,acetaminophen,roberta-base,3,3.0
+NCT00536068,DRUG,acetaminophen,clinicalbert,4,4.0
+NCT00536068,DRUG,myocardial infarction,bert-base-uncased,6,3.0
+NCT00536068,DRUG,myocardial infarction,roberta-base,6,3.0
+NCT00536068,DRUG,myocardial infarction,clinicalbert,7,3.5
+NCT02092350,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT02092350,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT02092350,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT00666991,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT00666991,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT00666991,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT00411190,DRUG,atorvastatin,bert-base-uncased,5,5.0
+NCT00411190,DRUG,atorvastatin,roberta-base,4,4.0
+NCT00411190,DRUG,atorvastatin,clinicalbert,4,4.0
+NCT00411190,DRUG,acetaminophen,bert-base-uncased,5,5.0
+NCT00411190,DRUG,acetaminophen,roberta-base,3,3.0
+NCT00411190,DRUG,acetaminophen,clinicalbert,4,4.0
+NCT00411190,DRUG,ibuprofen,bert-base-uncased,4,4.0
+NCT00411190,DRUG,ibuprofen,roberta-base,4,4.0
+NCT00411190,DRUG,ibuprofen,clinicalbert,3,3.0
+NCT01523990,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT01523990,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT01523990,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT00278213,DRUG,cyclophosphamide,bert-base-uncased,6,6.0
+NCT00278213,DRUG,cyclophosphamide,roberta-base,4,4.0
+NCT00278213,DRUG,cyclophosphamide,clinicalbert,7,7.0
+NCT00278213,DRUG,alemtuzumab,bert-base-uncased,5,5.0
+NCT00278213,DRUG,alemtuzumab,roberta-base,6,6.0
+NCT00278213,DRUG,alemtuzumab,clinicalbert,5,5.0
+NCT00278213,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT00278213,DRUG,chemotherapy,roberta-base,3,3.0
+NCT00278213,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT02213913,DRUG,prednisone,bert-base-uncased,4,4.0
+NCT02213913,DRUG,prednisone,roberta-base,3,3.0
+NCT02213913,DRUG,prednisone,clinicalbert,3,3.0
+NCT02213913,DRUG,cyclophosphamide,bert-base-uncased,6,6.0
+NCT02213913,DRUG,cyclophosphamide,roberta-base,4,4.0
+NCT02213913,DRUG,cyclophosphamide,clinicalbert,7,7.0
+NCT02213913,DRUG,lenalidomide,bert-base-uncased,4,4.0
+NCT02213913,DRUG,lenalidomide,roberta-base,4,4.0
+NCT02213913,DRUG,lenalidomide,clinicalbert,4,4.0
+NCT02213913,DRUG,rituximab,bert-base-uncased,5,5.0
+NCT02213913,DRUG,rituximab,roberta-base,4,4.0
+NCT02213913,DRUG,rituximab,clinicalbert,4,4.0
+NCT02213913,DRUG,chemotherapy,bert-base-uncased,1,1.0
+NCT02213913,DRUG,chemotherapy,roberta-base,3,3.0
+NCT02213913,DRUG,chemotherapy,clinicalbert,4,4.0
+NCT01575860,DRUG,lenalidomide,bert-base-uncased,4,4.0
+NCT01575860,DRUG,lenalidomide,roberta-base,4,4.0
+NCT01575860,DRUG,lenalidomide,clinicalbert,4,4.0
+NCT01626560,DRUG,cytokine,bert-base-uncased,3,3.0
+NCT01626560,DRUG,cytokine,roberta-base,4,4.0
+NCT01626560,DRUG,cytokine,clinicalbert,4,4.0
+NCT07635082,DRUG,letrozole,bert-base-uncased,4,4.0
+NCT07635082,DRUG,letrozole,roberta-base,4,4.0
+NCT07635082,DRUG,letrozole,clinicalbert,4,4.0
+NCT02218424,DRUG,randomized controlled,bert-base-uncased,3,1.5
+NCT02218424,DRUG,randomized controlled,roberta-base,3,1.5
+NCT02218424,DRUG,randomized controlled,clinicalbert,3,1.5
+NCT02218424,DRUG,intravenous,bert-base-uncased,3,3.0
+NCT02218424,DRUG,intravenous,roberta-base,4,4.0
+NCT02218424,DRUG,intravenous,clinicalbert,3,3.0
+NCT02960659,DRUG,metformin,bert-base-uncased,3,3.0
+NCT02960659,DRUG,metformin,roberta-base,3,3.0
+NCT02960659,DRUG,metformin,clinicalbert,3,3.0
+NCT02960659,DRUG,type 2 diabetes,bert-base-uncased,3,1.0
+NCT02960659,DRUG,type 2 diabetes,roberta-base,3,1.0
+NCT02960659,DRUG,type 2 diabetes,clinicalbert,3,1.0
+NCT01227980,DRUG,dexamethasone,bert-base-uncased,5,5.0
+NCT01227980,DRUG,dexamethasone,roberta-base,6,6.0
+NCT01227980,DRUG,dexamethasone,clinicalbert,5,5.0
+NCT00453479,DRUG,pharmacokinetics,bert-base-uncased,6,6.0
+NCT00453479,DRUG,pharmacokinetics,roberta-base,4,4.0
+NCT00453479,DRUG,pharmacokinetics,clinicalbert,5,5.0
+NCT00453479,DRUG,pharmacodynamics,bert-base-uncased,6,6.0
+NCT00453479,DRUG,pharmacodynamics,roberta-base,3,3.0
+NCT00453479,DRUG,pharmacodynamics,clinicalbert,6,6.0
+NCT00784446,DRUG,imatinib,bert-base-uncased,3,3.0
+NCT00784446,DRUG,imatinib,roberta-base,3,3.0
+NCT00784446,DRUG,imatinib,clinicalbert,3,3.0
+NCT00784446,DRUG,bevacizumab,bert-base-uncased,5,5.0
+NCT00784446,DRUG,bevacizumab,roberta-base,6,6.0
+NCT00784446,DRUG,bevacizumab,clinicalbert,5,5.0
+NCT03436862,DRUG,nivolumab,bert-base-uncased,4,4.0
+NCT03436862,DRUG,nivolumab,roberta-base,5,5.0
+NCT03436862,DRUG,nivolumab,clinicalbert,4,4.0
