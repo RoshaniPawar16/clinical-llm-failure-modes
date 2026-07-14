@@ -1,0 +1,472 @@
+row_id,term,tokenizer,token_count,fragmentation_score
+933668,heparin,bert-base-uncased,3,3.0
+933668,heparin,roberta-base,3,3.0
+933668,heparin,clinicalbert,2,2.0
+933668,subcutaneous,bert-base-uncased,3,3.0
+933668,subcutaneous,roberta-base,3,3.0
+933668,subcutaneous,clinicalbert,4,4.0
+1201500,thrombosis,bert-base-uncased,4,4.0
+1201500,thrombosis,roberta-base,4,4.0
+1201500,thrombosis,clinicalbert,4,4.0
+800973,intravenous,bert-base-uncased,3,3.0
+800973,intravenous,roberta-base,4,4.0
+800973,intravenous,clinicalbert,3,3.0
+1014275,heparin,bert-base-uncased,3,3.0
+1014275,heparin,roberta-base,3,3.0
+1014275,heparin,clinicalbert,2,2.0
+886046,heart failure,bert-base-uncased,2,1.0
+886046,heart failure,roberta-base,2,1.0
+886046,heart failure,clinicalbert,2,1.0
+757499,subcutaneous,bert-base-uncased,3,3.0
+757499,subcutaneous,roberta-base,3,3.0
+757499,subcutaneous,clinicalbert,4,4.0
+1141064,cardiomyopathy,bert-base-uncased,4,4.0
+1141064,cardiomyopathy,roberta-base,4,4.0
+1141064,cardiomyopathy,clinicalbert,5,5.0
+1141064,myocardial infarction,bert-base-uncased,6,3.0
+1141064,myocardial infarction,roberta-base,6,3.0
+1141064,myocardial infarction,clinicalbert,7,3.5
+1004546,dexamethasone,bert-base-uncased,5,5.0
+1004546,dexamethasone,roberta-base,6,6.0
+1004546,dexamethasone,clinicalbert,5,5.0
+1004546,intravenous,bert-base-uncased,3,3.0
+1004546,intravenous,roberta-base,4,4.0
+1004546,intravenous,clinicalbert,3,3.0
+1217022,myocardial infarction,bert-base-uncased,6,3.0
+1217022,myocardial infarction,roberta-base,6,3.0
+1217022,myocardial infarction,clinicalbert,7,3.5
+1217022,intraperitoneal,bert-base-uncased,5,5.0
+1217022,intraperitoneal,roberta-base,4,4.0
+1217022,intraperitoneal,clinicalbert,4,4.0
+943742,intravenous,bert-base-uncased,3,3.0
+943742,intravenous,roberta-base,4,4.0
+943742,intravenous,clinicalbert,3,3.0
+1049770,intravenous,bert-base-uncased,3,3.0
+1049770,intravenous,roberta-base,4,4.0
+1049770,intravenous,clinicalbert,3,3.0
+952381,intraperitoneal,bert-base-uncased,5,5.0
+952381,intraperitoneal,roberta-base,4,4.0
+952381,intraperitoneal,clinicalbert,4,4.0
+1095263,intravenous,bert-base-uncased,3,3.0
+1095263,intravenous,roberta-base,4,4.0
+1095263,intravenous,clinicalbert,3,3.0
+1092367,intravenous,bert-base-uncased,3,3.0
+1092367,intravenous,roberta-base,4,4.0
+1092367,intravenous,clinicalbert,3,3.0
+1092367,intraperitoneal,bert-base-uncased,5,5.0
+1092367,intraperitoneal,roberta-base,4,4.0
+1092367,intraperitoneal,clinicalbert,4,4.0
+1205066,intravenous,bert-base-uncased,3,3.0
+1205066,intravenous,roberta-base,4,4.0
+1205066,intravenous,clinicalbert,3,3.0
+905736,encephalopathy,bert-base-uncased,5,5.0
+905736,encephalopathy,roberta-base,3,3.0
+905736,encephalopathy,clinicalbert,6,6.0
+820869,intravenous,bert-base-uncased,3,3.0
+820869,intravenous,roberta-base,4,4.0
+820869,intravenous,clinicalbert,3,3.0
+860569,subcutaneous,bert-base-uncased,3,3.0
+860569,subcutaneous,roberta-base,3,3.0
+860569,subcutaneous,clinicalbert,4,4.0
+1069239,intravenous,bert-base-uncased,3,3.0
+1069239,intravenous,roberta-base,4,4.0
+1069239,intravenous,clinicalbert,3,3.0
+884626,intravenous,bert-base-uncased,3,3.0
+884626,intravenous,roberta-base,4,4.0
+884626,intravenous,clinicalbert,3,3.0
+1258133,hypoglycemia,bert-base-uncased,6,6.0
+1258133,hypoglycemia,roberta-base,4,4.0
+1258133,hypoglycemia,clinicalbert,5,5.0
+1258133,creatinine,bert-base-uncased,4,4.0
+1258133,creatinine,roberta-base,3,3.0
+1258133,creatinine,clinicalbert,3,3.0
+826285,tachycardia,bert-base-uncased,4,4.0
+826285,tachycardia,roberta-base,4,4.0
+826285,tachycardia,clinicalbert,4,4.0
+826285,heart failure,bert-base-uncased,2,1.0
+826285,heart failure,roberta-base,2,1.0
+826285,heart failure,clinicalbert,2,1.0
+826285,subcutaneous,bert-base-uncased,3,3.0
+826285,subcutaneous,roberta-base,3,3.0
+826285,subcutaneous,clinicalbert,4,4.0
+1028193,myocardial infarction,bert-base-uncased,6,3.0
+1028193,myocardial infarction,roberta-base,6,3.0
+1028193,myocardial infarction,clinicalbert,7,3.5
+1101593,subcutaneous,bert-base-uncased,3,3.0
+1101593,subcutaneous,roberta-base,3,3.0
+1101593,subcutaneous,clinicalbert,4,4.0
+971024,subcutaneous,bert-base-uncased,3,3.0
+971024,subcutaneous,roberta-base,3,3.0
+971024,subcutaneous,clinicalbert,4,4.0
+1125589,intravenous,bert-base-uncased,3,3.0
+1125589,intravenous,roberta-base,4,4.0
+1125589,intravenous,clinicalbert,3,3.0
+924822,intravenous,bert-base-uncased,3,3.0
+924822,intravenous,roberta-base,4,4.0
+924822,intravenous,clinicalbert,3,3.0
+796526,subcutaneous,bert-base-uncased,3,3.0
+796526,subcutaneous,roberta-base,3,3.0
+796526,subcutaneous,clinicalbert,4,4.0
+921588,differentiation,bert-base-uncased,1,1.0
+921588,differentiation,roberta-base,2,2.0
+921588,differentiation,clinicalbert,2,2.0
+740508,subcutaneous,bert-base-uncased,3,3.0
+740508,subcutaneous,roberta-base,3,3.0
+740508,subcutaneous,clinicalbert,4,4.0
+1068081,thrombosis,bert-base-uncased,4,4.0
+1068081,thrombosis,roberta-base,4,4.0
+1068081,thrombosis,clinicalbert,4,4.0
+1180649,subcutaneous,bert-base-uncased,3,3.0
+1180649,subcutaneous,roberta-base,3,3.0
+1180649,subcutaneous,clinicalbert,4,4.0
+1212375,tachycardia,bert-base-uncased,4,4.0
+1212375,tachycardia,roberta-base,4,4.0
+1212375,tachycardia,clinicalbert,4,4.0
+1212375,subcutaneous,bert-base-uncased,3,3.0
+1212375,subcutaneous,roberta-base,3,3.0
+1212375,subcutaneous,clinicalbert,4,4.0
+1212375,intravenous,bert-base-uncased,3,3.0
+1212375,intravenous,roberta-base,4,4.0
+1212375,intravenous,clinicalbert,3,3.0
+1105895,subcutaneous,bert-base-uncased,3,3.0
+1105895,subcutaneous,roberta-base,3,3.0
+1105895,subcutaneous,clinicalbert,4,4.0
+1105895,intravenous,bert-base-uncased,3,3.0
+1105895,intravenous,roberta-base,4,4.0
+1105895,intravenous,clinicalbert,3,3.0
+1051330,heart failure,bert-base-uncased,2,1.0
+1051330,heart failure,roberta-base,2,1.0
+1051330,heart failure,clinicalbert,2,1.0
+835281,subcutaneous,bert-base-uncased,3,3.0
+835281,subcutaneous,roberta-base,3,3.0
+835281,subcutaneous,clinicalbert,4,4.0
+920333,hyperglycemia,bert-base-uncased,4,4.0
+920333,hyperglycemia,roberta-base,4,4.0
+920333,hyperglycemia,clinicalbert,5,5.0
+1189951,intravenous,bert-base-uncased,3,3.0
+1189951,intravenous,roberta-base,4,4.0
+1189951,intravenous,clinicalbert,3,3.0
+1133187,intravenous,bert-base-uncased,3,3.0
+1133187,intravenous,roberta-base,4,4.0
+1133187,intravenous,clinicalbert,3,3.0
+1221963,intravenous,bert-base-uncased,3,3.0
+1221963,intravenous,roberta-base,4,4.0
+1221963,intravenous,clinicalbert,3,3.0
+1014780,subcutaneous,bert-base-uncased,3,3.0
+1014780,subcutaneous,roberta-base,3,3.0
+1014780,subcutaneous,clinicalbert,4,4.0
+1166877,subcutaneous,bert-base-uncased,3,3.0
+1166877,subcutaneous,roberta-base,3,3.0
+1166877,subcutaneous,clinicalbert,4,4.0
+854429,intraperitoneal,bert-base-uncased,5,5.0
+854429,intraperitoneal,roberta-base,4,4.0
+854429,intraperitoneal,clinicalbert,4,4.0
+924213,atrial fibrillation,bert-base-uncased,5,2.5
+924213,atrial fibrillation,roberta-base,5,2.5
+924213,atrial fibrillation,clinicalbert,6,3.0
+804564,subcutaneous,bert-base-uncased,3,3.0
+804564,subcutaneous,roberta-base,3,3.0
+804564,subcutaneous,clinicalbert,4,4.0
+804564,intravenous,bert-base-uncased,3,3.0
+804564,intravenous,roberta-base,4,4.0
+804564,intravenous,clinicalbert,3,3.0
+906236,myocardial infarction,bert-base-uncased,6,3.0
+906236,myocardial infarction,roberta-base,6,3.0
+906236,myocardial infarction,clinicalbert,7,3.5
+906236,heart failure,bert-base-uncased,2,1.0
+906236,heart failure,roberta-base,2,1.0
+906236,heart failure,clinicalbert,2,1.0
+1073656,intravenous,bert-base-uncased,3,3.0
+1073656,intravenous,roberta-base,4,4.0
+1073656,intravenous,clinicalbert,3,3.0
+1120326,subcutaneous,bert-base-uncased,3,3.0
+1120326,subcutaneous,roberta-base,3,3.0
+1120326,subcutaneous,clinicalbert,4,4.0
+970259,neutropenia,bert-base-uncased,4,4.0
+970259,neutropenia,roberta-base,5,5.0
+970259,neutropenia,clinicalbert,4,4.0
+1141069,differentiation,bert-base-uncased,1,1.0
+1141069,differentiation,roberta-base,2,2.0
+1141069,differentiation,clinicalbert,2,2.0
+1004962,intravenous,bert-base-uncased,3,3.0
+1004962,intravenous,roberta-base,4,4.0
+1004962,intravenous,clinicalbert,3,3.0
+1202317,differentiation,bert-base-uncased,1,1.0
+1202317,differentiation,roberta-base,2,2.0
+1202317,differentiation,clinicalbert,2,2.0
+1189058,thrombosis,bert-base-uncased,4,4.0
+1189058,thrombosis,roberta-base,4,4.0
+1189058,thrombosis,clinicalbert,4,4.0
+930890,tachycardia,bert-base-uncased,4,4.0
+930890,tachycardia,roberta-base,4,4.0
+930890,tachycardia,clinicalbert,4,4.0
+810778,heparin,bert-base-uncased,3,3.0
+810778,heparin,roberta-base,3,3.0
+810778,heparin,clinicalbert,2,2.0
+905303,neutropenia,bert-base-uncased,4,4.0
+905303,neutropenia,roberta-base,5,5.0
+905303,neutropenia,clinicalbert,4,4.0
+1240456,myocardial infarction,bert-base-uncased,6,3.0
+1240456,myocardial infarction,roberta-base,6,3.0
+1240456,myocardial infarction,clinicalbert,7,3.5
+823572,differentiation,bert-base-uncased,1,1.0
+823572,differentiation,roberta-base,2,2.0
+823572,differentiation,clinicalbert,2,2.0
+909676,heart failure,bert-base-uncased,2,1.0
+909676,heart failure,roberta-base,2,1.0
+909676,heart failure,clinicalbert,2,1.0
+1118128,hyperglycemia,bert-base-uncased,4,4.0
+1118128,hyperglycemia,roberta-base,4,4.0
+1118128,hyperglycemia,clinicalbert,5,5.0
+1233064,chemotherapy,bert-base-uncased,1,1.0
+1233064,chemotherapy,roberta-base,3,3.0
+1233064,chemotherapy,clinicalbert,4,4.0
+1233064,creatinine,bert-base-uncased,4,4.0
+1233064,creatinine,roberta-base,3,3.0
+1233064,creatinine,clinicalbert,3,3.0
+1233064,intravenous,bert-base-uncased,3,3.0
+1233064,intravenous,roberta-base,4,4.0
+1233064,intravenous,clinicalbert,3,3.0
+1192420,subcutaneous,bert-base-uncased,3,3.0
+1192420,subcutaneous,roberta-base,3,3.0
+1192420,subcutaneous,clinicalbert,4,4.0
+1192420,intravenous,bert-base-uncased,3,3.0
+1192420,intravenous,roberta-base,4,4.0
+1192420,intravenous,clinicalbert,3,3.0
+766183,non-small cell,bert-base-uncased,4,2.0
+766183,non-small cell,roberta-base,4,2.0
+766183,non-small cell,clinicalbert,4,2.0
+928227,intravenous,bert-base-uncased,3,3.0
+928227,intravenous,roberta-base,4,4.0
+928227,intravenous,clinicalbert,3,3.0
+779650,intraperitoneal,bert-base-uncased,5,5.0
+779650,intraperitoneal,roberta-base,4,4.0
+779650,intraperitoneal,clinicalbert,4,4.0
+970610,heart failure,bert-base-uncased,2,1.0
+970610,heart failure,roberta-base,2,1.0
+970610,heart failure,clinicalbert,2,1.0
+970610,intravenous,bert-base-uncased,3,3.0
+970610,intravenous,roberta-base,4,4.0
+970610,intravenous,clinicalbert,3,3.0
+1177966,thrombosis,bert-base-uncased,4,4.0
+1177966,thrombosis,roberta-base,4,4.0
+1177966,thrombosis,clinicalbert,4,4.0
+1177966,atrial fibrillation,bert-base-uncased,5,2.5
+1177966,atrial fibrillation,roberta-base,5,2.5
+1177966,atrial fibrillation,clinicalbert,6,3.0
+1000307,intravenous,bert-base-uncased,3,3.0
+1000307,intravenous,roberta-base,4,4.0
+1000307,intravenous,clinicalbert,3,3.0
+746470,heart failure,bert-base-uncased,2,1.0
+746470,heart failure,roberta-base,2,1.0
+746470,heart failure,clinicalbert,2,1.0
+1065044,subcutaneous,bert-base-uncased,3,3.0
+1065044,subcutaneous,roberta-base,3,3.0
+1065044,subcutaneous,clinicalbert,4,4.0
+1148574,chemotherapy,bert-base-uncased,1,1.0
+1148574,chemotherapy,roberta-base,3,3.0
+1148574,chemotherapy,clinicalbert,4,4.0
+1228981,non-small cell,bert-base-uncased,4,2.0
+1228981,non-small cell,roberta-base,4,2.0
+1228981,non-small cell,clinicalbert,4,2.0
+1228981,intravenous,bert-base-uncased,3,3.0
+1228981,intravenous,roberta-base,4,4.0
+1228981,intravenous,clinicalbert,3,3.0
+1226109,heart failure,bert-base-uncased,2,1.0
+1226109,heart failure,roberta-base,2,1.0
+1226109,heart failure,clinicalbert,2,1.0
+881815,heart failure,bert-base-uncased,2,1.0
+881815,heart failure,roberta-base,2,1.0
+881815,heart failure,clinicalbert,2,1.0
+1214275,subcutaneous,bert-base-uncased,3,3.0
+1214275,subcutaneous,roberta-base,3,3.0
+1214275,subcutaneous,clinicalbert,4,4.0
+939858,heart failure,bert-base-uncased,2,1.0
+939858,heart failure,roberta-base,2,1.0
+939858,heart failure,clinicalbert,2,1.0
+928786,subcutaneous,bert-base-uncased,3,3.0
+928786,subcutaneous,roberta-base,3,3.0
+928786,subcutaneous,clinicalbert,4,4.0
+1250557,intravenous,bert-base-uncased,3,3.0
+1250557,intravenous,roberta-base,4,4.0
+1250557,intravenous,clinicalbert,3,3.0
+1153526,intravenous,bert-base-uncased,3,3.0
+1153526,intravenous,roberta-base,4,4.0
+1153526,intravenous,clinicalbert,3,3.0
+816800,creatinine,bert-base-uncased,4,4.0
+816800,creatinine,roberta-base,3,3.0
+816800,creatinine,clinicalbert,3,3.0
+955214,hyperlipidemia,bert-base-uncased,4,4.0
+955214,hyperlipidemia,roberta-base,4,4.0
+955214,hyperlipidemia,clinicalbert,5,5.0
+887758,myocardial infarction,bert-base-uncased,6,3.0
+887758,myocardial infarction,roberta-base,6,3.0
+887758,myocardial infarction,clinicalbert,7,3.5
+909170,heart failure,bert-base-uncased,2,1.0
+909170,heart failure,roberta-base,2,1.0
+909170,heart failure,clinicalbert,2,1.0
+1067962,tachycardia,bert-base-uncased,4,4.0
+1067962,tachycardia,roberta-base,4,4.0
+1067962,tachycardia,clinicalbert,4,4.0
+1067962,heart failure,bert-base-uncased,2,1.0
+1067962,heart failure,roberta-base,2,1.0
+1067962,heart failure,clinicalbert,2,1.0
+1009811,thrombocytopenia,bert-base-uncased,6,6.0
+1009811,thrombocytopenia,roberta-base,7,7.0
+1009811,thrombocytopenia,clinicalbert,6,6.0
+808524,heart failure,bert-base-uncased,2,1.0
+808524,heart failure,roberta-base,2,1.0
+808524,heart failure,clinicalbert,2,1.0
+1243273,subcutaneous,bert-base-uncased,3,3.0
+1243273,subcutaneous,roberta-base,3,3.0
+1243273,subcutaneous,clinicalbert,4,4.0
+1025461,chemotherapy,bert-base-uncased,1,1.0
+1025461,chemotherapy,roberta-base,3,3.0
+1025461,chemotherapy,clinicalbert,4,4.0
+1025461,neutropenia,bert-base-uncased,4,4.0
+1025461,neutropenia,roberta-base,5,5.0
+1025461,neutropenia,clinicalbert,4,4.0
+1025461,intravenous,bert-base-uncased,3,3.0
+1025461,intravenous,roberta-base,4,4.0
+1025461,intravenous,clinicalbert,3,3.0
+1025461,intraperitoneal,bert-base-uncased,5,5.0
+1025461,intraperitoneal,roberta-base,4,4.0
+1025461,intraperitoneal,clinicalbert,4,4.0
+1135772,intravenous,bert-base-uncased,3,3.0
+1135772,intravenous,roberta-base,4,4.0
+1135772,intravenous,clinicalbert,3,3.0
+822518,non-small cell,bert-base-uncased,4,2.0
+822518,non-small cell,roberta-base,4,2.0
+822518,non-small cell,clinicalbert,4,2.0
+1166819,intravenous,bert-base-uncased,3,3.0
+1166819,intravenous,roberta-base,4,4.0
+1166819,intravenous,clinicalbert,3,3.0
+966197,subcutaneous,bert-base-uncased,3,3.0
+966197,subcutaneous,roberta-base,3,3.0
+966197,subcutaneous,clinicalbert,4,4.0
+1178480,intravenous,bert-base-uncased,3,3.0
+1178480,intravenous,roberta-base,4,4.0
+1178480,intravenous,clinicalbert,3,3.0
+1136443,differentiation,bert-base-uncased,1,1.0
+1136443,differentiation,roberta-base,2,2.0
+1136443,differentiation,clinicalbert,2,2.0
+784168,chemotherapy,bert-base-uncased,1,1.0
+784168,chemotherapy,roberta-base,3,3.0
+784168,chemotherapy,clinicalbert,4,4.0
+784168,subcutaneous,bert-base-uncased,3,3.0
+784168,subcutaneous,roberta-base,3,3.0
+784168,subcutaneous,clinicalbert,4,4.0
+1169338,subcutaneous,bert-base-uncased,3,3.0
+1169338,subcutaneous,roberta-base,3,3.0
+1169338,subcutaneous,clinicalbert,4,4.0
+1169338,intravenous,bert-base-uncased,3,3.0
+1169338,intravenous,roberta-base,4,4.0
+1169338,intravenous,clinicalbert,3,3.0
+1172119,cardiomyopathy,bert-base-uncased,4,4.0
+1172119,cardiomyopathy,roberta-base,4,4.0
+1172119,cardiomyopathy,clinicalbert,5,5.0
+1130639,heart failure,bert-base-uncased,2,1.0
+1130639,heart failure,roberta-base,2,1.0
+1130639,heart failure,clinicalbert,2,1.0
+1035666,encephalopathy,bert-base-uncased,5,5.0
+1035666,encephalopathy,roberta-base,3,3.0
+1035666,encephalopathy,clinicalbert,6,6.0
+1109103,subcutaneous,bert-base-uncased,3,3.0
+1109103,subcutaneous,roberta-base,3,3.0
+1109103,subcutaneous,clinicalbert,4,4.0
+979332,intravenous,bert-base-uncased,3,3.0
+979332,intravenous,roberta-base,4,4.0
+979332,intravenous,clinicalbert,3,3.0
+979332,intraperitoneal,bert-base-uncased,5,5.0
+979332,intraperitoneal,roberta-base,4,4.0
+979332,intraperitoneal,clinicalbert,4,4.0
+912372,heart failure,bert-base-uncased,2,1.0
+912372,heart failure,roberta-base,2,1.0
+912372,heart failure,clinicalbert,2,1.0
+1121848,intravenous,bert-base-uncased,3,3.0
+1121848,intravenous,roberta-base,4,4.0
+1121848,intravenous,clinicalbert,3,3.0
+962900,cardiomyopathy,bert-base-uncased,4,4.0
+962900,cardiomyopathy,roberta-base,4,4.0
+962900,cardiomyopathy,clinicalbert,5,5.0
+962900,heart failure,bert-base-uncased,2,1.0
+962900,heart failure,roberta-base,2,1.0
+962900,heart failure,clinicalbert,2,1.0
+1236609,subcutaneous,bert-base-uncased,3,3.0
+1236609,subcutaneous,roberta-base,3,3.0
+1236609,subcutaneous,clinicalbert,4,4.0
+949269,thrombosis,bert-base-uncased,4,4.0
+949269,thrombosis,roberta-base,4,4.0
+949269,thrombosis,clinicalbert,4,4.0
+949269,subcutaneous,bert-base-uncased,3,3.0
+949269,subcutaneous,roberta-base,3,3.0
+949269,subcutaneous,clinicalbert,4,4.0
+1095832,heart failure,bert-base-uncased,2,1.0
+1095832,heart failure,roberta-base,2,1.0
+1095832,heart failure,clinicalbert,2,1.0
+1086250,intravenous,bert-base-uncased,3,3.0
+1086250,intravenous,roberta-base,4,4.0
+1086250,intravenous,clinicalbert,3,3.0
+918243,heart failure,bert-base-uncased,2,1.0
+918243,heart failure,roberta-base,2,1.0
+918243,heart failure,clinicalbert,2,1.0
+791460,heart failure,bert-base-uncased,2,1.0
+791460,heart failure,roberta-base,2,1.0
+791460,heart failure,clinicalbert,2,1.0
+779627,heart failure,bert-base-uncased,2,1.0
+779627,heart failure,roberta-base,2,1.0
+779627,heart failure,clinicalbert,2,1.0
+835455,chemotherapy,bert-base-uncased,1,1.0
+835455,chemotherapy,roberta-base,3,3.0
+835455,chemotherapy,clinicalbert,4,4.0
+835455,tachycardia,bert-base-uncased,4,4.0
+835455,tachycardia,roberta-base,4,4.0
+835455,tachycardia,clinicalbert,4,4.0
+835455,heart failure,bert-base-uncased,2,1.0
+835455,heart failure,roberta-base,2,1.0
+835455,heart failure,clinicalbert,2,1.0
+747149,heart failure,bert-base-uncased,2,1.0
+747149,heart failure,roberta-base,2,1.0
+747149,heart failure,clinicalbert,2,1.0
+871930,subcutaneous,bert-base-uncased,3,3.0
+871930,subcutaneous,roberta-base,3,3.0
+871930,subcutaneous,clinicalbert,4,4.0
+952768,differentiation,bert-base-uncased,1,1.0
+952768,differentiation,roberta-base,2,2.0
+952768,differentiation,clinicalbert,2,2.0
+1040062,encephalopathy,bert-base-uncased,5,5.0
+1040062,encephalopathy,roberta-base,3,3.0
+1040062,encephalopathy,clinicalbert,6,6.0
+975260,subcutaneous,bert-base-uncased,3,3.0
+975260,subcutaneous,roberta-base,3,3.0
+975260,subcutaneous,clinicalbert,4,4.0
+1064641,thrombosis,bert-base-uncased,4,4.0
+1064641,thrombosis,roberta-base,4,4.0
+1064641,thrombosis,clinicalbert,4,4.0
+865546,atrial fibrillation,bert-base-uncased,5,2.5
+865546,atrial fibrillation,roberta-base,5,2.5
+865546,atrial fibrillation,clinicalbert,6,3.0
+1182867,anticoagulation,bert-base-uncased,4,4.0
+1182867,anticoagulation,roberta-base,4,4.0
+1182867,anticoagulation,clinicalbert,3,3.0
+1182867,subcutaneous,bert-base-uncased,3,3.0
+1182867,subcutaneous,roberta-base,3,3.0
+1182867,subcutaneous,clinicalbert,4,4.0
+1145037,differentiation,bert-base-uncased,1,1.0
+1145037,differentiation,roberta-base,2,2.0
+1145037,differentiation,clinicalbert,2,2.0
+1057790,tachycardia,bert-base-uncased,4,4.0
+1057790,tachycardia,roberta-base,4,4.0
+1057790,tachycardia,clinicalbert,4,4.0
+1057790,intravenous,bert-base-uncased,3,3.0
+1057790,intravenous,roberta-base,4,4.0
+1057790,intravenous,clinicalbert,3,3.0
+901961,heart failure,bert-base-uncased,2,1.0
+901961,heart failure,roberta-base,2,1.0
+901961,heart failure,clinicalbert,2,1.0
+1128160,heart failure,bert-base-uncased,2,1.0
+1128160,heart failure,roberta-base,2,1.0
+1128160,heart failure,clinicalbert,2,1.0
+750150,thrombosis,bert-base-uncased,4,4.0
+750150,thrombosis,roberta-base,4,4.0
+750150,thrombosis,clinicalbert,4,4.0

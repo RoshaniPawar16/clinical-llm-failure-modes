@@ -14,12 +14,16 @@ clinical-llm-failure-modes/
 │   └── linguistic_features.py       ← Hedging/negation feature extraction
 ├── component3_tokenizer/
 │   └── tokenizer_fragmentation.py   ← Tokenizer fragmentation analysis
+├── component4_mimic/
+│   └── mimic_analysis.py            ← MIMIC-III radiology notes analysis
 ├── data/
 │   ├── raw/                         ← full API output (gitignored)
 │   └── processed/
 │       ├── trials_clean.csv         ← 500 completed interventional trials
 │       ├── linguistic_features.csv  ← trials_clean + 6 linguistic feature cols
-│       └── tokenizer_fragmentation.csv ← per-term fragmentation scores
+│       ├── tokenizer_fragmentation.csv    ← per-term fragmentation scores (ClinicalTrials)
+│       ├── mimic_linguistic_features.csv  ← linguistic features on MIMIC radiology notes
+│       └── mimic_tokenizer_fragmentation.csv ← fragmentation scores on MIMIC notes
 ├── requirements.txt
 └── README.md
 ```
@@ -104,9 +108,29 @@ Output: `data/processed/tokenizer_fragmentation.csv`
 
 ---
 
-## Component 4 — MIMIC-III Radiology Notes *(pending PhysioNet credentialing)*
+## Component 4 — MIMIC-III Radiology Notes
 
-Analysis of real clinical notes from MIMIC-III. Requires completing CITI training and obtaining PhysioNet credentialed access before implementation.
+**What it does:** Applies the same linguistic feature extraction (Component 2) and
+tokenizer fragmentation analysis (Component 3) to 500 sampled MIMIC-III radiology
+notes, then prints a side-by-side comparison against the ClinicalTrials.gov baseline.
+Requires PhysioNet credentialed access to MIMIC-III.
+
+**Output files:**
+
+| File | Description |
+|---|---|
+| `mimic_linguistic_features.csv` | ROW_ID, SUBJECT_ID, HADM_ID + 6 linguistic feature cols |
+| `mimic_tokenizer_fragmentation.csv` | row_id, term, tokenizer, token_count, fragmentation_score |
+
+**Run it:**
+
+```bash
+# Default path (place NOTEEVENTS.csv in data/raw/)
+python component4_mimic/mimic_analysis.py
+
+# Custom path
+python component4_mimic/mimic_analysis.py --noteevents /path/to/NOTEEVENTS.csv
+```
 
 ---
 
@@ -115,4 +139,4 @@ Analysis of real clinical notes from MIMIC-III. Requires completing CITI trainin
 - [x] Component 1: ClinicalTrials.gov public API
 - [x] Component 2: Linguistic feature extraction (hedging, negation)
 - [x] Component 3: Tokenizer fragmentation analysis
-- [ ] Component 4: MIMIC-III radiology notes (pending PhysioNet credentialing)
+- [x] Component 4: MIMIC-III radiology notes analysis
